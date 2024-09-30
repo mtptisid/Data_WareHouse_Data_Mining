@@ -87,3 +87,18 @@ pip install pandas scikit-learn matplotlib sqlite3
 ```
 
 ---
+## 5. Installing Jupyter Notebook
+
+Jupyter Notebook is a great tool for interactive data analysis. To install Jupyter, run the following command:
+```bash
+pip install jupyter
+```
+
+To start a Jupyter Notebook, use:
+```bash
+jupyter notebook
+```
+
+This will open Jupyter in your web browser, where you can create and run Python notebooks for your data analysis.
+
+---
