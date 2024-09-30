@@ -102,3 +102,13 @@ jupyter notebook
 This will open Jupyter in your web browser, where you can create and run Python notebooks for your data analysis.
 
 ---
+
+
+
+## Contact Me
+
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) [GitHub](https://github.com/mtptisid)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/siddharamayya-mathapati)
+- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) [Instagram](https://instagram.com/its_5iD)
+- ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) [WhatsApp](https://wa.me/9740671620)
+- ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white) [Portfolio](https://mtptisid.github.io)
