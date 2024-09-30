@@ -1,1 +1,89 @@
-# Data_WareHouse_Data_Mining
+
+# Data Warehouse, Data Mining, and Machine Learning Project Setup
+
+## 1. Introduction
+
+This guide will help you set up a Python environment to work on a Data Warehouse and Data Mining project. By the end of this guide, you will have learned how to:
+1. Install Python.
+2. Set up a virtual environment.
+3. Install libraries needed for data handling, machine learning, and database interactions.
+4. Create and manage a simple SQLite database.
+5. Perform basic data mining using **pandas** and **scikit-learn**.
+6. Train a basic machine learning model for car price prediction.
+7. Visualize data with **matplotlib**.
+
+---
+
+## 2. Installing Python
+
+### Windows
+1. Download Python from the official website: [python.org/downloads](https://www.python.org/downloads/).
+2. During installation, ensure that **“Add Python to PATH”** is checked.
+3. Verify the installation by opening the Command Prompt and running:
+   ```bash
+   python --version
+   ```
+
+### macOS
+1. Install **Homebrew** (if not already installed):
+   ```bash
+   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   ```
+2. Install Python using Homebrew:
+   ```bash
+   brew install python
+   ```
+3. Verify installation:
+   ```bash
+   python3 --version
+   ```
+
+### Linux
+1. Most Linux distributions come with Python pre-installed. To install the latest version:
+   ```bash
+   sudo apt update
+   sudo apt install python3
+   ```
+2. Verify installation:
+   ```bash
+   python3 --version
+   ```
+
+---
+
+## 3. Setting Up a Virtual Environment
+
+1. Create a project folder:
+   ```bash
+   mkdir data_project
+   cd data_project
+   ```
+2. Create a virtual environment:
+   ```bash
+   python -m venv venv
+   ```
+3. Activate the virtual environment:
+   - **Windows**:
+     ```bash
+     venv\Scripts\activate
+     ```
+   - **macOS/Linux**:
+     ```bash
+     source venv/bin/activate
+     ```
+
+4. To deactivate the virtual environment, simply run:
+   ```bash
+   deactivate
+   ```
+
+---
+
+## 4. Installing Necessary Libraries
+
+Install the following libraries for data handling, machine learning, and SQLite database interactions:
+```bash
+pip install pandas scikit-learn matplotlib sqlite3
+```
+
+---
