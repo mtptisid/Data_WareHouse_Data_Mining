@@ -20,10 +20,11 @@ This guide will help you set up a Python environment to work on a Data Warehouse
 1. Download Python from the official website: [python.org/downloads](https://www.python.org/downloads/).
 2. During installation, ensure that **“Add Python to PATH”** is checked.
 3. Verify the installation by opening the Command Prompt and running:
+   - Open Command Prompt (search for “cmd” or “Command Prompt” and select the application).
+   - Enter `python --version` and `pip --version` to check the installation.
    ```bash
    python --version
    ```
-
 ### macOS
 1. Install **Homebrew** (if not already installed):
    ```bash
@@ -102,10 +103,19 @@ jupyter notebook
 This will open Jupyter in your web browser, where you can create and run Python notebooks for your data analysis.
 
 ---
+## Optional: Using Anaconda
+
+Anaconda is a popular Python distribution that includes many libraries for scientific computing and data analysis.
+
+1. Download Anaconda: Visit the [Anaconda download page](https://www.anaconda.com/products/individual).
+2. Install Anaconda: Download and install Anaconda according to your operating system.
+3. Using Anaconda: Manage Python environments and packages either through the Anaconda Navigator GUI or by opening the terminal/command prompt and entering `conda` related commands.
 
 
 
 ## Contact Me
+
+Contact me incase if you get any issue while installation.
 
 - ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white) [Portfolio](https://mtptisid.github.io)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) [      GitHub](https://github.com/mtptisid)
