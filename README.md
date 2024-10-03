@@ -191,7 +191,11 @@ Here’s a simple code to demonstrate this:
 
 ### Demonstration of a Machine Laerning Model with Flask APP.
 
-[Heart Disease Predication Model - Source Code]()
+[Heart Disease Predication Model - Source Code](https://github.com/mtptisid/Heart_Disease_Prediction-Model_ML)
+
+you can clone this application on your personal Laptop/PC with IDE you are comportable.
+
+all steps are given in source code repository to clone and run the application
 
 ## Contact Me
 
