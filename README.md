@@ -182,7 +182,10 @@ Machine learning is an artificial intelligence technique where a model learns fr
 4. **Model Evaluation:** Assess the model’s performance using metrics like accuracy, precision, and recall.
 5. **Deployment:** Once the model is trained and evaluated, it is deployed to make predictions on new data.
 
-### Example Project: Predicting Car Prices
+### Example Project: Heart Disease Predication Model.
+In this project, we predict the Chance of Heart Disease using a dataset containing features like smoking, diabetes, blood pressure, and Heart Beat rate. We apply a **Linear Regression** model to predict the Chance of Disease based on these features.
+
+Here’s a simple code to demonstrate this:
 
 
 
@@ -190,9 +193,9 @@ Machine learning is an artificial intelligence technique where a model learns fr
 
 Contact me incase if you get any issue while installation.
 
-- ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white) [Portfolio](https://mtptisid.github.io)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) [      GitHub](https://github.com/mtptisid)
+- ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white) [Siddharamayya M](https://mtptisid.github.io)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) [GitHub](https://github.com/mtptisid)
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/siddharamayya-mathapati)
 - ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) [Instagram](https://instagram.com/its_5iD)
-- ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) [WhatsApp](https://wa.me/9740671620)
+- ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) [My WhatsApp](https://wa.me/9740671620)
 
