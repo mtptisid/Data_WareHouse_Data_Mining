@@ -187,7 +187,7 @@ In this project, we predict the Chance of Heart Disease using a dataset containi
 
 Here’s a simple code to demonstrate this:
 
-
+[Heart Disease Predication Model](https://github.com/mtptisid/Data_WareHouse_Data_Mining/blob/master/Hear%20Disease%20Prediction%20machine%20Learning.ipynb)
 
 ## Contact Me
 
