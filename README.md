@@ -199,7 +199,7 @@ all steps are given in source code repository to clone and run the application
 
 ## Contact Me
 
-Contact me incase if you get any issue while installation.
+Contact me for ny project related queries and concerns.
 
 - ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white) [Siddharamayya M](https://mtptisid.github.io)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) [GitHub](https://github.com/mtptisid)
